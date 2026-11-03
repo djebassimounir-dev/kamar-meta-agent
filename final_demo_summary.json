@@ -1,0 +1,11 @@
+{
+  "framework": "KAMAR-META-AGENT",
+  "version": "1.0.0",
+  "validation": {
+    "review_scenario": true,
+    "allow_scenario": true,
+    "valid_artifact": true,
+    "invalid_hash_rejected": true
+  },
+  "all_checks_passed": true
+}

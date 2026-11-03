@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-11-03T01:15:56.810823+00:00",
+  "framework": "KAMAR-META-AGENT",
+  "version": "1.0.0",
+  "scope_note": "Structural consistency of provided elements; no external semantic validation.",
+  "result": {
+    "decision": "REVIEW",
+    "reasons": [
+      "unsupported_claim"
+    ],
+    "claims": [
+      {
+        "claim_id": "C1",
+        "text": "The document indicates a 12% increase.",
+        "supported": true,
+        "missing_evidence": [],
+        "issue": null
+      },
+      {
+        "claim_id": "C2",
+        "text": "The result is guaranteed in all cases.",
+        "supported": false,
+        "missing_evidence": [],
+        "issue": "missing_or_empty_evidence"
+      }
+    ],
+    "contradictions": [],
+    "trace": {
+      "valid": true,
+      "event_count": 2
+    },
+    "duplicate_evidence_ids": [],
+    "artifacts": []
+  }
+}

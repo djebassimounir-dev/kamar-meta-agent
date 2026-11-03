@@ -1,0 +1,16 @@
+project:
+  name: KAMAR-META-AGENT
+  version: 2.3-RC
+  mode: audit
+
+security:
+  database: kamar_ledger.db
+  key_file: .kamar_master.key
+  sqlite_wal: true
+
+inspection:
+  evidence_check: true
+  contradiction_check: true
+  trace_audit: true
+  artifact_integrity: true
+  report_generation: true
