@@ -1,9 +1,13 @@
 # KAMAR-META-AGENT
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24288468.svg)](https://doi.org/10.5281/zenodo.24288468)
+
 **Project release:** 1.0.0 (standalone demonstration)  
 **Project:** Evidence-Aware AI Audit Framework  
 **Author:** Mounir Djebassi  
-**License:** MIT
+**License:** MIT  
+
+---
 
 ## Overview
 
