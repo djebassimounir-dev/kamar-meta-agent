@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "KAMAR-META-AGENT: Evidence-Aware AI Audit Framework"
+message: "If you use this software or architectural framework in your research, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Djebassi"
+    given-names: "Mounir"
+    orcid: "https://orcid.org/0009-0009-6871-7693"
+    affiliation: "Independent Researcher, Constantine, Algeria"
+repository-code: "https://github.com/djebassimounir-dev/kamar-meta-agent"
+url: "https://github.com/djebassimounir-dev/kamar-meta-agent"
+abstract: >-
+  KAMAR-META-AGENT is a prototype framework for structurally reviewing outputs from AI agents.
+  It checks evidence references, reports declared contradictions, inspects execution traces,
+  verifies artifact hashes using SHA-256, and includes a tamper-evident SQLite token ledger
+  with HMAC-protected records.
+keywords:
+  - "AI Auditing "
+  - " Multi- Agent Systems "
+  - " Evidence-Aware Inspection "
+  - " Execution Trace Verification "
+  - " Artifact Integrity "
+  - " LLM Reliability "
+license: MIT
+version: 1.0.0
+date-released: 2026-11-16
